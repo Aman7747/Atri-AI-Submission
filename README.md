@@ -1,6 +1,6 @@
 # Fashion-MNIST Classification with a Custom Neural Network
 
-Submission:** Atri AI Submission – Fashion-MNIST Assignment 
+Submission:  Atri AI Submission – Fashion-MNIST Assignment 
 
 ## Overview
 
