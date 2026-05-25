@@ -1,7 +1,6 @@
 # Fashion-MNIST Classification with a Custom Neural Network
 
-**Author:** Aman Desai
-**Course/Submission:** Atri AI Submission – Fashion-MNIST Assignment 
+Submission:** Atri AI Submission – Fashion-MNIST Assignment 
 
 ## Overview
 
